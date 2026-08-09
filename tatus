@@ -1,0 +1,10 @@
+[33m2addb6f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m fix: Delivery Partner creation request handling, mailer transport, and debug logging
+[33m288f0f8[m feat: Delivery Partner management, isolated rider workspace, nearest hub calculation, and env.example template
+[33m20fb96b[m Implement isolated Super Admin authentication, oversight dashboard, and IMAGE 2 visual styling
+[33mfc0e89a[m Initial commit - Complete REXPO Rental Management System with Cloudinary and Razorpay integration
+[33m52b3f11[m[33m ([m[1;31morigin/main[m[33m)[m Update Express.js and MYSQL badges in README
+[33mc4b34c8[m Update README.md
+[33m172925d[m Update README.md
+[33m8d1eb40[m Enhance README with project details and guidelines
+[33m0b70c16[m Update README.md
+[33m8c30b77[m Initial commit
